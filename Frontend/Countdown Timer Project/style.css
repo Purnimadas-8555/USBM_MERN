@@ -1,0 +1,17 @@
+/* Center The Content */
+body {
+    font-family: Arial, sans-serif;
+    text-align:center;
+    margin-top: 60px;
+}
+/* Style for the input and button */
+input,button {
+    padding: 10px;
+    font-size: 15px;
+    margin: 5px;
+}
+/* Display area style */
+#display {
+    margin-top:20px;
+    font-size: 24px;
+}

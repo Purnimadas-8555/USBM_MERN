@@ -1,0 +1,18 @@
+/* center the content */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+
+}
+/* style for the blinking text*/
+#BlinkingText {
+    font-size: 24px;
+    font-weight: bold;
+    color:red;
+    
+}

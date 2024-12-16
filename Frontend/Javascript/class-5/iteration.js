@@ -40,13 +40,15 @@ console.log("Global:", num); // print 11
 
 // Ex: Asking for user to the correct input
 
-let userAns;
+// let userAns;
 
-do {
-  userAns = prompt("What is the capital of Odisha?");
-  //   console.log("Wrong");
-} while (userAns !== "Bhubaneswar");
+// do {
+//   userAns = prompt("What is the capital of Odisha?");
+//   //   console.log("Wrong");
+// } while (userAns !== "Bhubaneswar");
 
-console.log("Correct");
+// console.log("Correct");
 
-console.log("Bhubanewsar" !== "Bhubanewsar"); // true
+// console.log("Bhubanewsar" !== "Bhubanewsar"); // true
+
+
